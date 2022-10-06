@@ -1,0 +1,29 @@
+.welcome{
+    text-align:center;
+    color: blue;
+}
+
+.qn{
+    text-align: center;
+    color: red;
+    border: black;
+}
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2015/07/09/22/45/tree-838667_960_720.jpg);
+    background-size:contain;
+    background-position: auto;
+    box-sizing: border-box;
+}
+
+.menu{
+    background-color: beige;
+    text-align: center;
+}
+
+.col{
+    display: inline-flex;
+    list-style: none;
+    color: white;
+    font-style: italic;
+}
